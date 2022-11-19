@@ -3,3 +3,6 @@
 
 # Ada Library Information
 *.ali
+/WatchDog.Demo/bin/Debug/net6.0
+/WatchDog.Demo/obj
+/.vs/WatchDog.NET.Demo/FileContentIndex
